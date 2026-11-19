@@ -2,7 +2,7 @@
 
 An interactive football analytics dashboard built with **Python**, **Streamlit**, and **mplsoccer** using 100% **StatsBomb Open Data** (`competition_id=72`, `season_id=107`). Created as Final Project Part 2 for the **Football Data Analysis Mentorship (FDAM) — Cohort 2**, mentored by **Sara Bentelli**.
 
-**Live App:** [fifawomenswc23app-josephfootballanalyst.streamlit.app](https://fifawomenswc23app-josephfootballanalyst.streamlit.app/)
+**Live App:** (https://fifawomensworldcup23.streamlit.app/))
 
 ## What This Dashboard Covers
 
